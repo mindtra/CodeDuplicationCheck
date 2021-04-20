@@ -1,0 +1,6 @@
+	int funAAA(){
+        int aaaaaaa = 0;
+        int bbbbbbbbb=1;
+        int ccccccccc=aaaaaaa+bbbbbbbbb;
+        cout>>ccccccccc>>endl;
+    }

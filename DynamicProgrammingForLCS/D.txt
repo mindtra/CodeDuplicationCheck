@@ -1,0 +1,6 @@
+    int myFunDDD(){
+        int eeeeeeeeeeeee = 0;
+        int fffffffffffffff=1;
+        int ddddddddddddddddd = eeeeeeeeeeeee+fffffffffffffff;
+        cout>>ddddddddddddddddd>>endl;
+    }

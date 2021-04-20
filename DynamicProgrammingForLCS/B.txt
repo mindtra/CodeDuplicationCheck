@@ -1,0 +1,8 @@
+    int funBBB()
+    {
+        int a = 0;
+        int aar = [0,1,2,3];
+        int b=1;
+        int c=a+b;
+	    cout>>c>>endl;
+	}
